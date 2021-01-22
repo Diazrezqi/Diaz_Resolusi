@@ -1,0 +1,5 @@
+Alur Belajar Menjadi Full Stack Web Developer & Mobile Apps Developer
+Full Stack Web Developer (front end): 
+- Html & CSS
+- Javascript
+- Bootstrap
