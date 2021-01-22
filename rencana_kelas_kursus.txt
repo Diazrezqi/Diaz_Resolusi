@@ -5,7 +5,8 @@ Rencana Pendaftaran Kelas Kursus
 - Progammer Zaman Now
 * php Dasar
 * Java Dasar
+* kotlin 
 - Codepolitan
 * Skkni
 -ui/ux
-* 
+* adinsomia
