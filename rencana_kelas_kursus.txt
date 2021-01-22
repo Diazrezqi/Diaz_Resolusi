@@ -8,4 +8,5 @@ Rencana Pendaftaran Kelas Kursus
 - Codepolitan
 * Skkni
 -ui/ux
-* 
+* kelas halo designer
+* UX gestalt
