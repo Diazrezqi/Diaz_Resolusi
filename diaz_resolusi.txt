@@ -3,3 +3,10 @@ Full Stack Web Developer (front end):
 - Html & CSS
 - Javascript
 - Bootstrap
+Full Stack Web Developer ( Backend)
+- PHP
+- OO PHP
+- PHP MVC 
+- Code Igniter 
+- Composer 
+- Git Bash
