@@ -1,7 +1,12 @@
-Alur Belajar Menjadi Full Stack Web Developer & Mobile Apps Developer
+Alur Belajar Menjadi Full Stack Web Developer
 Full Stack Web Developer (front end): 
-- Html & CSS
+- Ui/Ux Design
+- Html Dasar
+- Css Dasar
+- Sass Css
 - Javascript
+- Vue.JS
+- Node.JS
 - Bootstrap
 Full Stack Web Developer ( Backend)
 - PHP
@@ -10,3 +15,9 @@ Full Stack Web Developer ( Backend)
 - Code Igniter 
 - Composer 
 - Git Bash
+- Laravel
+
+Alur Belajar App Developer:
+- Ui/Ux Designer
+- Java
+- Kotlin
