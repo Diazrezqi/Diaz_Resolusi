@@ -2,10 +2,13 @@ Rencana Pendaftaran Kelas Kursus
 - BWA
 * Fullstack Laravel
 * Fullstack Android
+* Fullstack IOS 
 - Progammer Zaman Now
 * php Dasar
 * Java Dasar
 - Codepolitan
 * Skkni
 -ui/ux
+* kelas halo designer
+* UX gestalt
 * 
